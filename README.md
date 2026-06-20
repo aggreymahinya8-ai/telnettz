@@ -1,0 +1,2 @@
+# telnettz
+TELECOM NETWORK TANZANIA
